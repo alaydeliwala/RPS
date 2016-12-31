@@ -51,5 +51,3 @@ const styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('RPS', () => RPS);
-
-<penis
