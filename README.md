@@ -7,7 +7,8 @@ While the game is still currently in development, a beta will be released soon f
 
 
 ### Love to Help? :sweat:
-Are you great with React or React Native and would to help? Any help would be greatly  Email me: ahdeliwala@gmail.com
+Are you great with React or React Native and would to help? Any help would be greatly appreciated.
+Email me: ahdeliwala@gmail.com
 
 
 ### Built with React-Native :sunglasses:
