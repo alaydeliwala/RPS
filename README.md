@@ -12,4 +12,4 @@ Email me: ahdeliwala@gmail.com
 
 
 ### Built with React-Native :sunglasses:
-RPS was built React-Native, a versatile language developed by Facebook and makes it easy to run on any platform. React-Native provides an easy mobile development environment by having scalable components using JavaScript.
+RPS was built React-Native, a versatile language developed by Facebook making it easier to run on any platform. React-Native provides an easy mobile development environment by having scalable components using JavaScript.
